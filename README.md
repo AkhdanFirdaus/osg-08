@@ -1,14 +1,14 @@
-# {{nama_project}} ( {{kode_tugas}} )
-{{tentang_project}}.
+# Flutter Basic Apps (Tugas 2 - OSG08)
+Aplikasi Flutter dengan tema Kemerdekaan untuk tugas ke-2 kelas OSG85.
 
 ## Screenshot
-{{screenshot_project}}.
+![](docs/sstugas2.png)
 
 ## Built With
-{{teknologi_digunakan}}
+- [Flutter](https://flutter.dev)
 
 ## Created By
-{{nama_peserta}}
+Akhdan Musyaffa Firdaus
 
 ## {{jenis_kelas}} Eudeka!
 {{tentang_kelas}}.
@@ -27,13 +27,7 @@ Instagram : [@eudeka.id](https://instagram.com/eudeka.id).
 WhatsApp : [0895351577557](https://wa.me/62895351577557).  
 Email : [info@eudeka.id](mailto:info@eudeka.id).  
 
-[nama_project]: Flutter Basic Apps
-[tentang_project]: Aplikasi Flutter dengan tema Kemerdekaan untuk tugas ke-2 kelas OSG85.
-[screenshot_project]: ![](docs/sstugas2.png)
-[teknologi_digunakan]: [Flutter](https://flutter.dev)
-[nama_peserta]: Akhdan Musyaffa Firdaus
-
-[kode_tugas]: Tugas 2 - OSG08
+[kode_tugas]: Eudeka
 [jenis_kelas]: Eudeka
 [nama_kelas]: Eudeka
 [tentang_kelas]: Eudeka
